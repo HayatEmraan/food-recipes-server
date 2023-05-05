@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Chingri Malaikari",
+    "description": "Chingri Malaikari is a Bengali seafood dish made with prawns cooked in a creamy coconut milk gravy.",
+    "image": "https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_1916557661.jpg",
+    "like": 23,
+    "publishedBy": {
+      "name": "Riya Sen",
+      "profileImage": "https://example.com/riya-sen.jpg"
+    },
+    "date": "2023-05-04"
+  },
+  {
+    "id": 2,
+    "name": "Aloo Posto",
+    "description": "Aloo Posto is a popular Bengali vegetarian dish made with potatoes cooked in a poppy seed paste.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/10/aloo-posto-recipe-1a.jpg",
+    "like": 13,
+    "publishedBy": {
+      "name": "Sudipa Chatterjee",
+      "profileImage": "https://example.com/sudipa-chatterjee.jpg"
+    },
+    "date": "2023-05-03"
+  },
+  {
+    "id": 3,
+    "name": "Mishti Doi",
+    "description": "Mishti Doi is a sweet yogurt dessert that originated in Bengal and is made by fermenting sweetened milk.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/02/bengali-mishti-doi-recipe-1-500x375.jpg",
+    "like": 29,
+    "publishedBy": {
+      "name": "Arpita Bhattacharya",
+      "profileImage": "https://example.com/arpita-bhattacharya.jpg"
+    },
+    "date": "2023-05-02"
+  },
+  {
+    "id": 4,
+    "name": "Macher Jhol",
+    "description": "Macher Jhol is a spicy fish curry that is a staple of Bengali cuisine.",
+    "image": "https://static.toiimg.com/thumb/71232181.cms?imgsize=2187876&width=800&height=800",
+    "like": 27,
+    "publishedBy": {
+      "name": "Anindya Gupta",
+      "profileImage": "https://example.com/anindya-gupta.jpg"
+    },
+    "date": "2023-05-01"
+  },
+  {
+    "id": 5,
+    "name": "Shukto",
+    "description": "Shukto is a traditional Bengali dish made with a variety of vegetables and spices.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/admin/Shukto_Recipe__Bengali_Mixed_Vegetable_in_Mustard_and_Poppy_Seed_Gravy.jpg",
+    "like": 33,
+    "publishedBy": {
+      "name": "Debjani Chatterjee",
+      "profileImage": "https://example.com/debjani-chatterjee.jpg"
+    },
+    "date": "2023-04-30"
+  },
+  {
+    "id": 6,
+    "name": "Kosha Mangsho",
+    "description": "Kosha Mangsho is a slow-cooked Bengali mutton curry with a spicy and tangy flavor.",
+    "image": "https://static.toiimg.com/thumb/54422265.cms?imgsize=134276&width=800&height=800",
+    "like": 43,
+    "publishedBy": {
+      "name": "Suman Roy",
+      "profileImage": "https://example.com/suman-roy.jpg"
+    },
+    "date": "2023-04-29"
+  }
+]
